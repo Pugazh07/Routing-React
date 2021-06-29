@@ -2,6 +2,7 @@
   "name": "http_guide",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://pugazh07.github.io/Routing-React/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
